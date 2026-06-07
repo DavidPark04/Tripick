@@ -1,0 +1,10 @@
+<svg width="240" height="80" viewBox="0 0 240 80" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Tripick 로고</title>
+  <desc>대문자 T, 소문자 ripick, 블루 닷 포인트 워드마크</desc>
+  <style>
+    @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+    .wm { font-family: 'Pretendard', sans-serif; }
+  </style>
+  <text x="0" y="58" class="wm" font-size="56" font-weight="800" fill="#0f172a" letter-spacing="-2">Tripick</text>
+  <circle cx="167" cy="8" r="7" fill="#2563eb"/>
+</svg>
