@@ -3,7 +3,7 @@
 <img src="./tripick_banner.png" alt="Tripick" width="600"/>
 
 <br/>
-
+<br/>
 **단 한 번의 지역 검색으로 맛집·카페·숙박·관광명소를 한눈에**
 
 카카오 로컬 API 기반 지역 여행 정보 탐색 플랫폼
