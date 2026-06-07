@@ -87,26 +87,6 @@ public/
 
 <br/>
 
-## 🚀 시작하기
-
-```bash
-# 저장소 클론
-git clone https://github.com/your-username/tripick.git
-cd tripick
-
-# 패키지 설치
-npm install
-
-# 환경변수 설정
-cp .env.example .env
-# .env 파일에 VITE_KAKAO_API_KEY=your_api_key 입력
-
-# 개발 서버 실행
-npm run dev
-```
-
-<br/>
-
 ## 🔑 환경변수
 
 ```env
@@ -134,5 +114,5 @@ VITE_KAKAO_API_KEY=your_kakao_local_api_key
 <br/>
 
 <div align="center">
-  <sub>Made with 💙 by 박다윗 · 2023</sub>
+  <sub>Tripick · 2026-1학기 웹프로그래밍실습 기말 프로젝트</sub>
 </div>
