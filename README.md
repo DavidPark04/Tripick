@@ -1,9 +1,6 @@
 <div align="center">
 
-<svg width="240" height="80" viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
-  <text x="30" y="58" font-family="Pretendard, sans-serif" font-size="56" font-weight="800" fill="#0f172a" letter-spacing="-2">Tripick</text>
-  <circle cx="228" cy="8" r="7" fill="#2563eb"/>
-</svg>
+<img src="./tripick_banner.png" alt="Tripick" width="600"/>
 
 <br/>
 
@@ -13,10 +10,6 @@
 
 <br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![KakaoAPI](https://img.shields.io/badge/Kakao_Local_API-FEE500?style=flat-square&logo=kakao&logoColor=black)
 
 </div>
 
@@ -141,5 +134,5 @@ VITE_KAKAO_API_KEY=your_kakao_local_api_key
 <br/>
 
 <div align="center">
-  <sub>Tripick · 2026 1학기 웹프로그래밍실습 미니 기말고사</sub>
+  <sub>Made with 💙 by 박다윗 · 2023</sub>
 </div>
